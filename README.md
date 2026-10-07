@@ -1,7 +1,6 @@
 
 # 🐉 skyvidxxD
 
-![Angel]([url=https://ibb.co/BKc5HGWy][img]https://i.ibb.co/Csm3p6Cb/photo-2026-10-08-01-08-31.jpg[/img][/url])
 # I write in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -18,3 +17,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=dark)](https://git.io/streak-stats)
