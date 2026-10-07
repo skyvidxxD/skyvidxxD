@@ -19,5 +19,5 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-# Static:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
+# Top langs:
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=skyvidxxD&layout=compact&theme=dark)
