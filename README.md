@@ -18,4 +18,5 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=dark)](https://git.io/streak-stats)
+# Static:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
