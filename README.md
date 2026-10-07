@@ -1,7 +1,7 @@
 
 # 🐉 skyvidxxD
 
-![Angel](https://ibb.co/BKc5HGWy)
+![Angel]([url=https://ibb.co/BKc5HGWy][img]https://i.ibb.co/Csm3p6Cb/photo-2026-10-08-01-08-31.jpg[/img][/url])
 # I write in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
