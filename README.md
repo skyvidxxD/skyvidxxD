@@ -19,4 +19,4 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## Statistic
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
