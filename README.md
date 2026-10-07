@@ -1,7 +1,7 @@
 
 # 🐉 skyvidxxD
 
-![Angel](https://i128.fastpic.org/big/2026/1008/8c/b96bbba21f5dc886952e0aedb33aaf8c.jpg
+![Angel](https://ibb.co/BKc5HGWy)
 # I write in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
