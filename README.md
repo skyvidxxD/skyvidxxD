@@ -8,6 +8,7 @@
 ![VSCodium](https://img.shields.io/badge/VSCodium-000000?style=for-the-badge&logo=vscodium&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=firefox&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=tor-project&logoColor=white)
 
 ## Want to learn:
 
