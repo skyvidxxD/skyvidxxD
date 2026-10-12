@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🐉 skyvidxxD
 
-<!--
-**skyvidxxD/skyvidxxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I use:
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-000000?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-Here are some ideas to get you started:
+![VSCodium](https://img.shields.io/badge/VSCodium-000000?style=for-the-badge&logo=vscodium&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=firefox&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=tor-project&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Want to learn:
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+## Statistic
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
