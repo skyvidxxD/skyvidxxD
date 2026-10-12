@@ -13,7 +13,6 @@
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## Statistic
