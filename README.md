@@ -13,7 +13,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shields.io&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logoColor=white)
 
 ## Statistic
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
