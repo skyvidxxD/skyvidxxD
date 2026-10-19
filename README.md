@@ -12,7 +12,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity_&_DB-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## Statistic
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=skyvidxxD&theme=neon)](https://git.io/streak-stats)
